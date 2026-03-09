@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there, Welcome to Dead Simple Org
+
+We build AI driven lean and mean apps for one person company.
 
 <!--
 
-**Here are some ideas to get you started:**
+**Here are some ideas to get you started:** 
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
